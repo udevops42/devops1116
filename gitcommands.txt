@@ -1,0 +1,25 @@
+first thing you do when you login to workstation
+#gitpull
+
+add a file
+
+#git add (filename)
+
+commit a file
+
+# git commit -m "commit message"
+
+push a file
+
+# git push -u origin (branchname)
+
+change from branches
+
+git checkout branchname
+
+find out on which branch you are in...
+
+git status
+
+
+
