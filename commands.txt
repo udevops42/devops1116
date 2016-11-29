@@ -1,0 +1,63 @@
+ls  list all file
+df -h to show the files
+mkdir  to create dire
+pwd  - print working directory
+cd - change directory
+cd .. go to  previosu directory
+rmdir - remove directory
+rebot - restart
+init 6 - restart
+clear - to clear terminal
+cont +c  to stop terminal
+su - swich user
+ssh - to ssh to remote server
+ps -ef - to show current process
+shutdown -h now
+grep to  search a  word in a file 
+top - performace 
+ifconfig  - to show network card ip address
+hostnanme - to show hostnanme
+yum install packagename 
+wget - to down  a  file 
+ping hostname - to check convectivy
+history - to show previous history
+uname - system kernal
+netstat - to show active ports listening
+cal - calender
+calc - calculator
+uptime - system uptime
+who - who
+chmod - to change persmission
+chown - to change ownership
+useradd -
+userdel
+vi 
+cat 
+head 
+tail 
+touch 
+echo 
+mv 
+cp 
+free -m
+dmesg
+shutdown -h now
+traceroute
+man
+date
+du 
+groupadd
+groupdel
+help
+service  servicename status
+kill -9 pid to stop a process
+find  / -name fienname to fine a file
+logout
+logname
+unzip 
+zip
+nslookup - dns lookup
+restart
+sudo  to execture certain persmission
+time
+which
