@@ -1,0 +1,4 @@
+Aws uses a library called boto
+boto is aws sdk, latest version of boto3
+inorder to automate aws process you need to install boto library on your workstation, write a python script which uses boto sdk anc makes
+aws api calls..
